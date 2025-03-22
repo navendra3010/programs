@@ -4,6 +4,7 @@ void main() {
   int price = myprice();
   print(price);
   print("hello");
+  print("hello user");
 }
 
 int myprice() {
